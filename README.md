@@ -11,3 +11,6 @@ The library used is a lightweight 3D engine called Three.JS
 Near the top of the screen you will see place in put input. In the profit/z axis put what you want the z axis to equal, or, if you dont care about the z axis, put 0
 
 In the box below type your equation(s)/inequalitie(s). If you have multiple equation(s)/inequalitie(s) seperate them by either and or or.
+
+[try it out](https://tylario.github.io/3D-Equation-Grapher/index.html)
+
